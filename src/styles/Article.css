@@ -1,0 +1,20 @@
+article{
+    margin-bottom: 40px;
+}
+
+h3{
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    
+}
+
+span{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+p{
+    font-size: 18px;
+}
